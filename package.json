@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "This will generate an employee's information based on the users input.",
+  "main": "Index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pv95335/team-Profile-Generator.git"
+  },
+  "author": "pv95335",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pv95335/team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/pv95335/team-Profile-Generator#readme"
+}
