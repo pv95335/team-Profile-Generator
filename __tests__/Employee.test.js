@@ -1,8 +1,5 @@
-const { TestResult } = require("@jest/types");
-const { exportAllDeclaration } = require("@babel/types");
+const Manager = require("../lib/Manager");
+const Engineer = require("../lib/Engineer");
+const Intern = require("../lib/Intern");
 
-test("create a name for the Employee", () => {
-  const employee = new Employee("Dave");
-
-  expect(employee.name).toBe("Dave");
-});
+test("Create a profile", () => {});
